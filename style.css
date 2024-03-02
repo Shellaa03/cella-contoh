@@ -1,0 +1,50 @@
+body {
+    background: url(img/pexels-kellie-churchman-1001682.jpg);
+    background-size: 40cm;
+    font-family: sans-serif;
+}
+.kalkulator {
+    background: powderblue;
+    width: 335px;
+    margin: 100px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px 10px rgb(106, 103, 103);
+}
+.bil{
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16pt;
+}
+.opt{
+    width: 215px;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16pt;
+}
+.tombol{
+    background: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15pt;
+}
+.hapus{
+    background: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15pt;
+}
+.judul{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
